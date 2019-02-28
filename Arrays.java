@@ -9,7 +9,7 @@ package arrays;
  *
  * @author chris
  */
-public class Rrays {
+public class Arrays {
 
     /**
      * @param args the command line arguments
